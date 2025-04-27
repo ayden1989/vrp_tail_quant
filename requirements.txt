@@ -9,3 +9,4 @@ sqlite-utils
 discord-webhook
 pyyaml
 python-dotenv
+pytest
