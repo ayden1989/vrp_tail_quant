@@ -10,3 +10,4 @@ discord-webhook
 pyyaml
 python-dotenv
 pytest
+pandas
