@@ -1,0 +1,9 @@
+ib_insync
+pandas
+numpy
+python-dotenv
+vectorbtpro
+pytest
+flake8
+sqlite-utils
+discord-webhook
