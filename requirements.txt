@@ -7,3 +7,4 @@ pytest
 flake8
 sqlite-utils
 discord-webhook
+pyyaml
