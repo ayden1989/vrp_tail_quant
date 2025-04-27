@@ -2,7 +2,7 @@ ib_insync
 pandas
 numpy
 python-dotenv
-vectorbtpro
+vectorbt
 pytest
 flake8
 sqlite-utils
