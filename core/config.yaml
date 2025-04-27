@@ -1,0 +1,15 @@
+ibkr:
+  host: ${IB_HOST}
+  port: ${IB_PORT}
+  client_id: ${IB_CLIENT_ID}
+
+database: vrp_data.db
+
+sizing:
+  max_margin_pct: 0.05
+  min_credit_pct: 0.8
+
+hedge:
+  rebalance_times: ["15:30"]
+
+discord_webhook: ${DISCORD_WEBHOOK_URL}
